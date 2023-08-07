@@ -20,4 +20,4 @@ halo
 
 > jangan lupa bernafas
 
-![keterangan](/avi-richards-Z3ownETsdNQ-unsplash.jpg)
+![keterangan](avi-richards-Z3ownETsdNQ-unsplash.jpg)
